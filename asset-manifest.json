@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.5fb729bf.chunk.css",
-  "main.js": "/static/js/main.072db7cc.chunk.js",
-  "main.js.map": "/static/js/main.072db7cc.chunk.js.map",
-  "static/js/1.349d4559.chunk.js": "/static/js/1.349d4559.chunk.js",
-  "static/js/1.349d4559.chunk.js.map": "/static/js/1.349d4559.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.5fb729bf.chunk.css.map": "/static/css/main.5fb729bf.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.43f5194d40f8e6312473a496d8d5b5bf.js": "/precache-manifest.43f5194d40f8e6312473a496d8d5b5bf.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Dad_Jokes/static/css/main.5fb729bf.chunk.css",
+  "main.js": "/Dad_Jokes/static/js/main.22f06708.chunk.js",
+  "main.js.map": "/Dad_Jokes/static/js/main.22f06708.chunk.js.map",
+  "static/js/1.349d4559.chunk.js": "/Dad_Jokes/static/js/1.349d4559.chunk.js",
+  "static/js/1.349d4559.chunk.js.map": "/Dad_Jokes/static/js/1.349d4559.chunk.js.map",
+  "runtime~main.js": "/Dad_Jokes/static/js/runtime~main.c170e1ee.js",
+  "runtime~main.js.map": "/Dad_Jokes/static/js/runtime~main.c170e1ee.js.map",
+  "static/css/main.5fb729bf.chunk.css.map": "/Dad_Jokes/static/css/main.5fb729bf.chunk.css.map",
+  "index.html": "/Dad_Jokes/index.html",
+  "precache-manifest.fb0647647c0a88fdd2f36b1cead39889.js": "/Dad_Jokes/precache-manifest.fb0647647c0a88fdd2f36b1cead39889.js",
+  "service-worker.js": "/Dad_Jokes/service-worker.js"
 }
